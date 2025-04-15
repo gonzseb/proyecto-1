@@ -12,7 +12,7 @@ proyecto-veterinaria/
 └── src/                   # Archivos fuente (.cpp y .h)
 ```
 
-- Para una correcta compilación y ejecución del programa se recomienda copiar y pegar todos los archivos (.cpp's, .h's y .txt's) en la misma carpeta.
+- Para una correcta compilación y ejecución del programa se recomienda copiar y pegar todos los archivos (.cpp's, .h's y .txt's) en una misma carpeta.
 
 ## 📝 Créditos
 
