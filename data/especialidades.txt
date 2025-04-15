@@ -1,0 +1,4 @@
+01	Odontologia
+02	Radiologia
+03	Medicina_General
+04	Nutricion
